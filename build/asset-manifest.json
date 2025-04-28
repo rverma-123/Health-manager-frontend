@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9af196fb.css",
+    "main.js": "/static/js/main.35561755.js",
+    "static/js/552.378341a4.chunk.js": "/static/js/552.378341a4.chunk.js",
+    "static/media/profileImg (2).png": "/static/media/profileImg (2).395c7193a94ed96db860.png",
+    "static/media/lossWeight.jpg": "/static/media/lossWeight.11a65eed0a15d39b1223.jpg",
+    "static/media/trackerImg.jpg": "/static/media/trackerImg.2182aad5bf0a34b539ce.jpg",
+    "static/media/calBalance.jpg": "/static/media/calBalance.533a04420c59731eb23b.jpg",
+    "static/media/aiBotImg.jpg": "/static/media/aiBotImg.668ef7bd2377c23d2a31.jpg",
+    "static/media/gainWeight.jpg": "/static/media/gainWeight.600bde29ba732234f55d.jpg",
+    "static/media/healthyImg.jpg": "/static/media/healthyImg.c724d1c760b106bae52f.jpg",
+    "static/media/bmiImg.jpg": "/static/media/bmiImg.13ce6c3d87a415f8de7c.jpg",
+    "static/media/chatImg.jpg": "/static/media/chatImg.d9dd8bcc296d808bde03.jpg",
+    "static/media/dietImg1.webp": "/static/media/dietImg1.6d4e47a3ad662a64315c.webp",
+    "static/media/beepSound.mp3": "/static/media/beepSound.250aa10d630dbb27ddbf.mp3",
+    "index.html": "/index.html",
+    "main.9af196fb.css.map": "/static/css/main.9af196fb.css.map",
+    "main.35561755.js.map": "/static/js/main.35561755.js.map",
+    "552.378341a4.chunk.js.map": "/static/js/552.378341a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9af196fb.css",
+    "static/js/main.35561755.js"
+  ]
+}

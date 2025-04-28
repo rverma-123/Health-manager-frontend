@@ -1,0 +1,17 @@
+[
+    {
+        "label":"Ads",
+        "valueIn":12,
+        "valueOut":25
+    },
+    {
+        "label":"gaya",
+        "valueIn":12,
+        "valueOut":11
+    },
+    {
+        "label":"ayaa",
+        "valueIn":40,
+        "valueOut":30
+    }
+]
